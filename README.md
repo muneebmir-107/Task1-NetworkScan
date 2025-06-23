@@ -17,7 +17,7 @@ This task involved scanning my local network using **Nmap** to identify open por
 
 ##  Files Included
 - `scan_results.txt`: Nmap output
-- `wireshark.png`: Wiresharkcapture
+- `wireshark.png`: Wireshark screenshot
 
 ##  Summary
 The scan found several devices with open ports. Security assessment was performed to identify potential risks.
