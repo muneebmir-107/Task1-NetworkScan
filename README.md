@@ -11,7 +11,7 @@ This task involved scanning my local network using **Nmap** to identify open por
 
 ##  Steps Followed
 1. Found my IP range using `ipconfig`
-2. Ran: `nmap -sS 192.168.29.0/24`
+2. Ran: `nmap -sS 192.168.X.X/24`
 3. Analyzed output and documented open ports
 4. Captured packets in Wireshark and filtered SYN packets
 
